@@ -1,16 +1,17 @@
 # US Data Salary Assessment Findings
-This assessment contains 4 years of salary details for Data-related careers in North America starting in 2020. There is a total of 8,080 salary details records in the dataset; 28 collected in 2020, 87 collected in 2021, 1,323 collected in 2022, and 6,642 collected in 2023. The Data job categories reported include: 'Data Analysis', 'Machine Learning and AI', 'Data Management and Strategy', 'Cloud and Database', 'Data Engineering', 'Data Quality and Operations', 'BI and Visualization', 'Leadership and Management', 'Data Architecture and Modeling', 'Data Science and Research'. The participants reported experience levels ranging spanning Entry, Mid, Senior and Executive.
+This assessment is an in-depth analysis of the salary details for North American employers whose employees are also located in North America. The dataset contains 4 years of salary details for Data-related careers from 2020 to 2023 and comprises 8,080 records, with 28 collected in 2020, 87 in 2021, 1,323 in 2022, and 6,642 in 2023. The Data job categories reported include: 'Data Analysis', 'Machine Learning and AI', 'Data Management and Strategy', 'Cloud and Database', 'Data Engineering', 'Data Quality and Operations', 'BI and Visualization', 'Leadership and Management', 'Data Architecture and Modeling', 'Data Science and Research'. The participants reported experience levels ranging from Entry, Mid, Senior, to Executive.
 
-The maximum salary reported among all categories over the 4 years is 450,000.00 for a Mid-level Research Scientist, the minimum salary reported is 24,000.00 for an Entry-level Data Scientist, and the median salary is 150,000.00 within which 2.48% of the total reported jobs fall.
+The maximum reported salary across all categories over the 4 years is $450,000.00 for a Mid-level Research Scientist. Conversely, the minimum reported salary stands at $24,000.00 for an Entry-level Data Scientist. The median salary is $150,000.00, within which 2.48% of the total reported jobs fall.
 
-Salary is directly correlated to experience level and inversely correlated with work location. Full-time, in-person employees are the highest paid of all surveyed followed closely by full-time remote employees. Machine learning and AI is the highest-paying job category for both in-person and romote data professionals; while data architecture and modeling is most lucrative for hybrid employees. 
+Salary directly correlates with experience level and has an inverse correlation with work location. On average, employees with more experience report higher salaries whereas the location of work does not have a significant effect on salary. Full-time, in-person employees are the highest paid among all surveyed, closely followed by full-time remote employees. Notably, Machine learning and AI claim the title of the highest-paying job category for both in-person and remote data professionals; while data architecture and modeling proves to be most lucrative for hybrid employees. 
 
 This salary data was obtained from [Kaggle](https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data) and the most recent version of this assessment can be viewed [here](https://www.kaggle.com/code/sonyalawrence/data-salaries-in-north-america)
 
 # Output Visuals
-![image](https://github.com/Sonya-7/US_Data_Salaries/assets/92489108/84a2ac84-80c1-470f-81f0-4d2e3430f9b7)
+![image](https://github.com/Sonya-7/US_Data_Salaries/assets/92489108/41e74743-df58-4706-9287-7b1b0148d60d)
 
-![image](https://github.com/Sonya-7/US_Data_Salaries/assets/92489108/35b30095-5eff-4ae1-8948-e45361db3152)
+![image](https://github.com/Sonya-7/US_Data_Salaries/assets/92489108/49b0c486-1b66-4461-9541-7acfce02a99f)
 
-![image](https://github.com/Sonya-7/US_Data_Salaries/assets/92489108/b7962ef1-ef82-4d68-bea0-ad331cb6c504)
+![image](https://github.com/Sonya-7/US_Data_Salaries/assets/92489108/cce11eff-92ea-4fad-8164-a9dde64a846a)
+
 
