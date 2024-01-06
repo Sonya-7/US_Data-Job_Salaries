@@ -1,4 +1,4 @@
-# US Data Salary Findings
+# US Data-Job Salaries
 This assessment is an in-depth analysis of the salary details for North American employers whose employees are also located in North America. <br />
 
 ### ***<ins>Demographics</ins>***
