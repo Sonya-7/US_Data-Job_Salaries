@@ -20,7 +20,7 @@ The Data job categories reported include:
 - Data Architecture and Modeling
 - Data Science and Research
 
-The participants reported experience levels ranging from 
+The participants reported the following experience levels
  - Entry-Level
  - Mid-Level
  - Senior
