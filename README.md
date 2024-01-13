@@ -1,6 +1,20 @@
 # Project Description
 This assessment is an in-depth analysis of the salary details for North American employers whose employees are also located in North America. <br />
 
+### Programming Language Used:
+- Python
+
+### File Type:
+- Jupyter Notebook
+
+### Packages Used:
+- Pandas
+- Matplotlib
+- seaborn
+- ipywidgets
+- plotly
+- sklearn
+
 ### ***<ins>Demographics</ins>***
 The cleaned dataset contains 4 years of salary details for Data-related careers from 2020 to 2023 and comprises 8,080 records.
 - 28 collected in 2020
