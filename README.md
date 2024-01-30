@@ -57,7 +57,7 @@ The salary data analyzed in this assessment originated from [Kaggle](https://www
 
 # Sample Output Visuals
 <p  align="left center">
-  <img  src="https://github.com/Sonya-7/US_Data_Salaries/assets/92489108/cce11eff-92ea-4fad-8164-a9dde64a846a" width=75% height=50%/>
+  <img  src="https://github.com/Sonya-7/US_Data-Job_Salaries/assets/92489108/b8192b74-d85f-492d-aa28-83692f7f26db" width=75% height=50%/>
   
 <p  align="left center">
     <img  src="https://github.com/Sonya-7/US_Data-Job_Salaries/assets/92489108/db65ddc5-d975-470e-b901-48b107e333a0" width=75% height=50%/>
