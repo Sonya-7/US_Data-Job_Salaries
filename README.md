@@ -56,6 +56,7 @@ Approximately 99% of the data has been obtained in the most recent period, makin
 The salary data analyzed in this assessment originated from [Kaggle](https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data). The complete dataset contains salary trends for data-related careers on a global scale. To narrow our focus to the most pertinent information and address a data skew, it was refined to isolate records exclusively related to North American employers and employees. The most recent version of this assessment, synchronized with the source data updates, can be viewed [here](https://www.kaggle.com/code/sonyalawrence/data-salaries-in-north-america) <br />
 
 # Sample Output Visuals
+ 
 <p  align="left center">
   <img  src="https://github.com/Sonya-7/US_Data-Job_Salaries/assets/92489108/b8192b74-d85f-492d-aa28-83692f7f26db" width=75% height=50%/>
   
@@ -65,6 +66,9 @@ The salary data analyzed in this assessment originated from [Kaggle](https://www
 <p  align="left center">
     <img  src="https://github.com/Sonya-7/US_Data-Job_Salaries/assets/92489108/a317e74c-3512-40de-b18d-0824a506a4fb" width=75% height=50%/>
  
+<p  align="left center">
+  <img  src="https://github.com/Sonya-7/Sonya-7/assets/92489108/e517a5d3-a312-4526-85dc-bb6b5b722681" width=75% height=50%/>
+  
 <p  align="left center">
     <img  src="https://github.com/Sonya-7/US_Data-Job_Salaries/assets/92489108/e7496dfc-d77b-401b-a557-6f778eb726d3" width=75% height=50%/>
  
